@@ -6,7 +6,8 @@ public class Main
         Scoreboard game = new Scoreboard("Red", "Blue");
         info = game.getScore();
         System.out.println(info);
-        
+
     }
+
 }
 
